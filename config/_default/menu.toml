@@ -1,17 +1,28 @@
 [[main]]
-    name = "Trang chủ"
+    name = "Home"
     url = "/"
     weight = 1
     [main.params]
         icon = "home"
 
 [[main]]
-    name = "Giới thiệu"
+    name = "About"
     url = "/about/"
     weight = 2
     [main.params]
         icon = "user"
-
+[[main]]
+    name = "Search"
+    url = "/search/"
+    weight = 2
+    [main.params]
+        icon = "search"
+[[main]]
+    name = "Archives"
+    url = "/archives/"
+    weight = 2
+    [main.params]
+        icon = "archives"
 
 [[social]]
     identifier = "github"
