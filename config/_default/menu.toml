@@ -34,12 +34,12 @@
 [[social]]
     identifier = "facebook"
     name = "Facebook"
-    url = "https://facebook.com/ten-cua-ban"
+    url = "https://facebook.com/er.clyb"
     [social.params]
         icon = "brand-facebook"
 [[social]]
     identifier = "Discord"
     name = "Discord"
-    url = "https://discord.com/users/roduygo"
+    url = "https://discord.com/users/1373346767642558707"
     [social.params]
         icon = "brand-discord"
