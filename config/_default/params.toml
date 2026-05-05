@@ -15,7 +15,9 @@ SortBy         = "default"
 
 [sidebar]
     compact = false
-    avatar  = ""
+    avatar  = "img/avatarkill.jpg"
+    emoji = "🛡️"
+    subtitle = "My name Nguyen Si Duy, i'm a new bee in cybersecurity analysis"
 
 [article]
     headingAnchor = false

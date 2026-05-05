@@ -1,0 +1,34 @@
+[[main]]
+    name = "Trang chủ"
+    url = "/"
+    weight = 1
+    [main.params]
+        icon = "home"
+
+[[main]]
+    name = "Giới thiệu"
+    url = "/about/"
+    weight = 2
+    [main.params]
+        icon = "user"
+
+
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/Roduygo"
+    [social.params]
+        icon = "brand-github"
+
+[[social]]
+    identifier = "facebook"
+    name = "Facebook"
+    url = "https://facebook.com/ten-cua-ban"
+    [social.params]
+        icon = "brand-facebook"
+[[social]]
+    identifier = "Discord"
+    name = "Discord"
+    url = "https://discord.com/users/roduygo"
+    [social.params]
+        icon = "brand-discord"
