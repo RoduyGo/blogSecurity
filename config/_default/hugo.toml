@@ -1,1 +1,6 @@
 title = "Roduygo | Blog"
+paginate = 5
+
+[pagination]
+  pagerSize = 5
+
